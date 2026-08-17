@@ -6,7 +6,7 @@ import { getWhatsAppLink } from '@/lib/site-config'
 const situations = [
   {
     question: 'Seu portão está apresentando problemas?',
-    answer: 'A Lima avalia a situação e realiza manutenção ou conserto.',
+    answer: 'Lima avalia a situação e realiza manutenção ou conserto.',
   },
   {
     question: 'Quer aumentar a segurança do seu imóvel?',
@@ -42,7 +42,7 @@ export function ProblemsSection() {
               Você não precisa saber qual equipamento comprar. Explique o que está acontecendo.
             </h2>
             <p className="mt-3 max-w-xl text-base leading-relaxed text-pretty text-white/70 sm:text-lg">
-              Identifique sua situação abaixo — a Lima avalia e indica a solução certa.
+              Identifique sua situação abaixo — Lima avalia e indica a solução certa.
             </p>
 
             <div className="mt-8 flex flex-col gap-4">

@@ -20,7 +20,7 @@ export function HeroSection() {
           <p className="max-w-lg text-base leading-relaxed text-pretty text-muted-foreground sm:text-lg">
             Instalação, manutenção e conserto de portões eletrônicos, câmeras de segurança e
             cercas elétricas. Explique o que está acontecendo — com mais de 20 anos de
-            experiência prática, a Lima entende o problema e encontra a solução certa para
+            experiência prática, Lima entende o problema e encontra a solução certa para
             residências, comércios e empresas.
           </p>
 
@@ -54,7 +54,7 @@ export function HeroSection() {
           <div className="relative aspect-4/5 w-full overflow-hidden rounded-3xl shadow-xl shadow-lima-darkest/10 sm:aspect-square lg:aspect-4/5">
             <Image
               src="/images/hero-tecnico.png"
-              alt="Técnico da Lima Serviços Eletrônicos instalando um motor de portão eletrônico"
+              alt="Técnico do Lima Serviços Eletrônicos instalando um motor de portão eletrônico"
               fill
               priority
               className="object-cover"

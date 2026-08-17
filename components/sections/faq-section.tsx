@@ -8,13 +8,13 @@ import { siteConfig } from '@/lib/site-config'
 
 const faqs = [
   {
-    question: 'Quais regiões a Lima atende?',
-    answer: `A Lima atende ${siteConfig.region}.`,
+    question: 'Quais regiões Lima atende?',
+    answer: `O Lima atende ${siteConfig.region}.`,
   },
   {
-    question: 'A Lima faz manutenção e conserto, ou só instalação?',
+    question: 'O Lima faz manutenção e conserto, ou só instalação?',
     answer:
-      'Além da instalação, a Lima também realiza manutenção e conserto de equipamentos que já estão instalados e apresentam problemas.',
+      'Além da instalação, Lima também realiza manutenção e conserto de equipamentos que já estão instalados e apresentam problemas.',
   },
   {
     question: 'Posso solicitar orçamento pelo WhatsApp?',
@@ -24,22 +24,22 @@ const faqs = [
   {
     question: 'A empresa atende residências e empresas?',
     answer:
-      'Sim. A Lima atende pessoas físicas, residências, comércios e empresas que precisem das soluções oferecidas.',
+      'Sim. Lima atende pessoas físicas, residências, comércios e empresas que precisem das soluções oferecidas.',
   },
   {
     question: 'Vocês fazem instalação de câmeras de segurança?',
     answer:
-      'Sim, a instalação de câmeras de segurança é um dos serviços oferecidos pela Lima.',
+      'Sim, a instalação de câmeras de segurança é um dos serviços oferecidos pelo Lima.',
   },
   {
     question: 'Vocês trabalham com portões eletrônicos?',
     answer:
-      'Sim. Instalação, manutenção e conserto de portões eletrônicos estão entre os principais serviços da Lima.',
+      'Sim. Instalação, manutenção e conserto de portões eletrônicos estão entre os principais serviços do Lima.',
   },
   {
     question: 'Posso explicar meu problema antes de saber qual serviço preciso?',
     answer:
-      'Sim, e essa é a forma mais indicada de começar. Explique a situação e a Lima ajuda a identificar a solução adequada.',
+      'Sim, e essa é a forma mais indicada de começar. Explique a situação e o Lima ajuda a identificar a solução adequada.',
   },
 ]
 
@@ -52,7 +52,7 @@ export function FaqSection() {
             Perguntas frequentes
           </h2>
           <p className="mt-3 text-base leading-relaxed text-pretty text-muted-foreground sm:text-lg">
-            Dúvidas comuns sobre os serviços da Lima em {siteConfig.region}.
+            Dúvidas comuns sobre os serviços do Lima em {siteConfig.region}.
           </p>
         </div>
 

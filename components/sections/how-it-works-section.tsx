@@ -7,7 +7,7 @@ const steps = [
   {
     number: '02',
     title: 'Entenda-se a necessidade',
-    description: 'A Lima avalia a situação e identifica a solução mais adequada para o caso.',
+    description: 'Lima avalia a situação e identifica a solução mais adequada para o caso.',
   },
   {
     number: '03',

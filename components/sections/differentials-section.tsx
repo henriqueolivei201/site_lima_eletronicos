@@ -19,7 +19,7 @@ const differentials = [
     icon: Wrench,
     title: 'Instalação, manutenção e conserto',
     description:
-      'O relacionamento não termina depois da instalação — a Lima também mantém e conserta o que já está funcionando.',
+      'O relacionamento não termina depois da instalação — o Lima também mantém e conserta o que já está funcionando.',
   },
   {
     icon: MapPin,
@@ -35,7 +35,7 @@ export function DifferentialsSection() {
         <div className="grid gap-10 lg:grid-cols-[1.05fr_1fr] lg:items-center lg:gap-14">
           <div>
             <h2 className="font-heading text-2xl font-extrabold text-balance text-lima-darkest sm:text-3xl lg:text-4xl">
-              Por que escolher a Lima?
+              Por que escolher o Lima?
             </h2>
             <p className="mt-3 max-w-xl text-base leading-relaxed text-pretty text-muted-foreground sm:text-lg">
               O maior diferencial não é apenas o equipamento instalado, é a experiência para

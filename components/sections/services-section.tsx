@@ -31,7 +31,7 @@ const services = [
     icon: Wrench,
     title: 'Manutenção e conserto',
     description: 'Atendimento a equipamentos com problemas, travados, lentos ou que pararam de funcionar.',
-    benefit: 'O relacionamento não termina na instalação — a Lima também resolve o que já existe.',
+    benefit: 'O relacionamento não termina na instalação — o Lima também resolve o que já existe.',
   },
 ]
 
